@@ -1,4 +1,4 @@
-## Oi eu sou a João Candido, estudante de Engenharia de Computação!
+## Oi eu sou a João Candido, tenho bacharelado em Engenharia de Computação!
 <div align="center">
   <a href="https://github.com/joaobcandido">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaobcandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
