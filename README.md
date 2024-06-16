@@ -1,29 +1,27 @@
-## Oi eu sou a João Candido, tenho bacharelado em Engenharia de Computação!
-<div align="center">
-  <a href="https://github.com/joaobcandido">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaobcandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobcandido&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# Hi, I'm João Candido PCD ♿ 
 
+ ### Eu era um agricultor familiar e com 39 anos sofri um acidente de moto e tive a anputacao do pe direito no processo de recuperacao conheci uma faculdade publica do Estado de Sao Paulo UNIVESP e comecei meu curso universitario , com 45 anos coclui o curso de Bacharelado em Engenharia de Computacao.
+ 
+ ## Conecte-se comigo
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocandidos/)
 
-<div style="display: inline_block "><br>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaobcandido&border_color=30A3DC&show_icons=true&theme=dracula)
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobcandido&layout=compact&langs_count=7&theme=dracula)
 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
- 
-  
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-        
-  
-  
-</div>
- 
-  
-  ##
- 
+ ##
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+   <img width="22" />
+   <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"  />
+   <img width="22" />
+   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+   <img width="22" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="22" />
+   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  </div>
+
+###
 
