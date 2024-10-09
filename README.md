@@ -1,6 +1,6 @@
-# Hi, I'm João Candido PCD ♿ 
+# Olá ,Sou João Candido PCD ♿ 
 
- ### Eu era um agricultor familiar e com 39 anos sofri um acidente de moto e tive a anputacao do pe direito no processo de recuperacao conheci uma faculdade publica do Estado de Sao Paulo UNIVESP e comecei meu curso universitario , com 45 anos coclui o curso de Bacharelado em Engenharia de Computacao.
+ ### Eu fui um agricultor familiar e com 39 anos sofri um acidente de moto e tive a anputacao do pe direito no processo de recuperacao conheci uma faculdade publica do Estado de Sao Paulo UNIVESP e comecei meu curso universitario , com 45 anos coclui o curso de Bacharelado em Engenharia de Computacao.
  
  ## Conecte-se comigo
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocandidos/)
